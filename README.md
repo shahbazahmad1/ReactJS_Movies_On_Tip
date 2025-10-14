@@ -1,6 +1,4 @@
-# G4A5_RJS_GradedAssignment3
-
-### `Demo & ScreenShots` - [[Google Drive Link]](https://drive.google.com/drive/folders/12wt6w5hsea61B-asmZrDWvujuLjfnvvg?usp=sharing)
+# Movies-On-Tip
 
 ### `npm install`
 
